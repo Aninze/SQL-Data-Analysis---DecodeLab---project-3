@@ -16,3 +16,9 @@ Use SQL queries to extract insights from a dataset.
   <li> Querying data </li>
   <li> Filtering and grouping </li>
 </ul>
+
+**Summary**
+<p>
+  A comprehensive set of 30 questions was generated, thoughtfully curated to cover a broad spectrum of SQL knowledge ranging from intermediate concepts such as joins, subqueries, and aggregation functions, to advanced topics including window functions, query optimization, indexing strategies, and complex stored procedures. 
+  <p>The questions are designed to progressively challenge candidates and provide a thorough evaluation of their SQL competency."</p>
+</p>
